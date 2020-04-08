@@ -10,27 +10,27 @@ The Stack consist of the following containers:
 
 | Container       | Versions               | Service name    | Default |
 | --------------  | ---------------------- | --------------- | ------- |
-| [Nginx]         | 1.17, 1.16             | `nginx`         | ✓       |
-| [Apache]        | 2.4                    | `apache`        |         |
-| [Drupal]        | 8, 7                   | `php`           | ✓       |
-| [PHP]           | 7.4, 7.3, 7.2          | `php`           |         |
-| [MariaDB]       | 10.4, 10.3, 10.2, 10.1 | `mariadb`       | ✓       |
-| [PostgreSQL]    | 12, 11, 10, 9.x        | `postgres`      |         |
-| [Redis]         | 5, 4                   | `redis`         |         |
-| [Memcached]     | 1                      | `memcached`     |         |
-| [Varnish]       | 6.0, 4.1               | `varnish`       |         |
-| [Node.js]       | 12, 10, 8              | `node`          |         |
-| [Drupal node]   | 1.0                    | `drupal-node`   |         |
-| [Solr]          | 8, 7, 6, 5             | `solr`          |         |
-| [Elasticsearch] | 7, 6                   | `elasticsearch` |         |
-| [Kibana]        | 7, 6                   | `kibana`        |         |
-| [OpenSMTPD]     | 6.0                    | `opensmtpd`     |         |
-| [Mailhog]       | latest                 | `mailhog`       | ✓       |
-| [AthenaPDF]     | 2.10.0                 | `athenapdf`     |         |
-| [Rsyslog]       | latest                 | `rsyslog`       |         |
-| [Blackfire]     | latest                 | `blackfire`     |         |
-| [Webgrind]      | 1                      | `webgrind`      |         |
-| [Xhprof viewer] | latest                 | `xhprof`        |         |
+| Nginx           | 1.17, 1.16             | `nginx`         | ✓       |
+| Apache          | 2.4                    | `apache`        |         |
+| Drupal          | 8, 7                   | `php`           | ✓       |
+| PHP             | 7.4, 7.3, 7.2          | `php`           |         |
+| MariaDB         | 10.4, 10.3, 10.2, 10.1 | `mariadb`       | ✓       |
+| PostgreSQL      | 12, 11, 10, 9.x        | `postgres`      |         |
+| Redis           | 5, 4                   | `redis`         |         |
+| Memcached       | 1                      | `memcached`     |         |
+| Varnish         | 6.0, 4.1               | `varnish`       |         |
+| Node.js         | 12, 10, 8              | `node`          |         |
+| Drupal node     | 1.0                    | `drupal-node`   |         |
+| Solr            | 8, 7, 6, 5             | `solr`          |         |
+| Elasticsearch   | 7, 6                   | `elasticsearch` |         |
+| Kibana          | 7, 6                   | `kibana`        |         |
+| OpenSMTPD       | 6.0                    | `opensmtpd`     |         |
+| Mailhog         | latest                 | `mailhog`       | ✓       |
+| AthenaPDF       | 2.10.0                 | `athenapdf`     |         |
+| Rsyslog         | latest                 | `rsyslog`       |         |
+| Blackfire       | latest                 | `blackfire`     |         |
+| Webgrind        | 1                      | `webgrind`      |         |
+| Xhprof viewer   | latest                 | `xhprof`        |         |
 | Adminer         | 4.6                    | `adminer`       |         |
 | phpMyAdmin      | latest                 | `pma`           |         |
 | Selenium chrome | 3.141                  | `chrome`        |         |
